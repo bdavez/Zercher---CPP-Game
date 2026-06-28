@@ -1,5 +1,5 @@
 # Zercher (C++ Game)
-Written purely in C++, this is a text based dungeon scroller. 
+Written purely in C++, this is a text based crawler. 
 
 Design Document
 
